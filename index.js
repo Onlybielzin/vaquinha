@@ -24,5 +24,5 @@ async function info(id) {
     return res
 
 }
-info('2721487')
-  .then(result => console.log(result))
+
+module.exports = info
