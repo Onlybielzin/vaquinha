@@ -1,0 +1,16 @@
+{
+  "name": "vakinha",
+  "version": "1.0.0",
+  "description": "Apenas um pacote feito para facilitar busca de dados no site https://www.vakinha.com.br/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Onlybielzin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "superagent": "^7.1.1"
+  }
+}
