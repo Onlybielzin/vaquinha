@@ -25,4 +25,6 @@ async function info(id) {
 
 }
 
-module.exports = info
+module.exports = {
+    info
+}
