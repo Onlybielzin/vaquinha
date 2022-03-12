@@ -1,6 +1,6 @@
 {
   "name": "vakinha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apenas um pacote feito para facilitar busca de dados no site https://www.vakinha.com.br/.",
   "main": "index.js",
   "scripts": {
